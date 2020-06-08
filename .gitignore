@@ -1,0 +1,15 @@
+build
+captures
+.gradle
+.idea
+bin
+gen
+out
+*.iml
+.directory
+node_modules
+local.properties
+ios.xcworkspace/
+
+.DS_Store
+.externalNativeBuild
